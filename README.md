@@ -9,7 +9,7 @@
 - **Cells:** SNU16 gastric cancer cells  
 - **Treatments:** Control, 5-FU (7.69 µM, 24h), H2O2 (80 µM, 24h)  
 - **Replicates:** 3 per condition  
-- **Processed Data:** FPKM values (ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE236nnn/GSE236987/suppl/GSE236987_lnc_transcripts.FPKM.txt.gz)  
+- **Processed Data:** FPKM values (ftp: //ftp.ncbi.nlm.nih.gov/geo/series/GSE236nnn/GSE236987/suppl/GSE236987_lnc_transcripts.FPKM.txt.gz )  
 - **BioProject:** [PRJNA993250](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA993250)
 
 ---
